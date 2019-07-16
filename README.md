@@ -10,7 +10,7 @@ run proxyShell.sh on proxy host login to target host and build proxy access with
 
 step 3
 
-after step 1 and step 2 finished we can use 127.0.0.1:$tunnel_port to access target host
+after step 1 and step 2 finished we can use `127.0.0.1:$tunnel_port` to access target host
 
 
 localShell.sh
