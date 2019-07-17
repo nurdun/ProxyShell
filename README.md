@@ -1,4 +1,4 @@
-Guid
+Guide
 
 Step 1
 
